@@ -33,7 +33,7 @@ comparing with model 5, the number of patients in model 6 drop even faster, at t
 decrease.
 
 Created on Thu May  7 23:00:51 2020
-@author: Qiyang Ma
+@author: Hongya Lu
 """
 
 import pycxsimulator
