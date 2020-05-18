@@ -53,7 +53,7 @@ Including the number of healthy people, recovery people, dead peoplein the envir
 to make no infected people.
 
 Created on Wed May  6 16:43:26 2020
-@author: Qiyang Ma
+@author: Hongya Lu
 """
 
 import pylab
