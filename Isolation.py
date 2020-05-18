@@ -39,7 +39,7 @@ Mostly important, few people who are not suspected to infected and recovery huma
 to work during the isolation period!
 
 Created on Wed May  6 17:35:10 2020
-@author: Qiyang Ma
+@author: Hongya Lu
 """
 
 import pycxsimulator
